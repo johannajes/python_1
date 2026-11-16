@@ -1,2 +1,2 @@
-print("Hello, World!")
-print("Toinen rivi")
+print("Johanna")
+print("Sukunimi")
